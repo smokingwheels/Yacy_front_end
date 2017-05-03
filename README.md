@@ -1,6 +1,4 @@
 # Yacy_front_end
-Improves Security.
-Unable to logon to administrate Yacy_search_server. Note will have to try externally.
 
 Coded in QB64 "BASIC"
 *Its a light weight Webserver to experiment with.*
